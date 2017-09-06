@@ -1,0 +1,41 @@
+// 60 Maindeck
+// 19 Artifact
+4 Lotus Petal
+4 Chrome Mox
+3 Mox Opal
+4 Lion's Eye Diamond
+4 Goblin Charbelcher
+
+// 9 Creature
+4 Shield Sphere
+4 Phyrexian Walker
+1 Ornithopter
+
+// 16 Instant
+4 Dark Ritual
+4 Cabal Ritual
+4 Culling the Weak
+4 Ad Nauseam
+
+// 1 Land
+1 Bayou
+
+// 15 Sorcery
+4 Infernal Tutor
+4 Land Grant
+3 Cabal Therapy
+4 Gitaxian Probe
+
+
+// 15 Sideboard
+// 4 Enchantment
+SB: 4 Carpet of Flowers
+
+// 8 Instant
+SB: 4 Nature's Claim
+SB: 4 Slaughter Pact
+
+// 3 Sorcery
+SB: 1 Empty the Warrens
+SB: 1 Cabal Therapy
+SB: 1 Duress

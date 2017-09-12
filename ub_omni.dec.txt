@@ -1,44 +1,54 @@
 // 60 Maindeck
-// 19 Artifact
-4 Lotus Petal
-4 Chrome Mox
-3 Mox Opal
-4 Lion's Eye Diamond
-4 Goblin Charbelcher
+// 2 Creature
+2 Emrakul, the Aeons Torn
 
-// 9 Creature
-4 Shield Sphere
-4 Phyrexian Walker
-1 Ornithopter
+// 4 Enchantment
+4 Omniscience
 
 // 16 Instant
-4 Dark Ritual
-4 Cabal Ritual
-4 Culling the Weak
-4 Ad Nauseam
+4 Cunning Wish
+3 Lim-Dûl's Vault
+1 Flusterstorm
+4 Force of Will
+4 Brainstorm
 
-// 1 Land
-1 Bayou
+// 20 Land
+2 City of Traitors
+5 Island
+1 Swamp
+4 Polluted Delta
+2 Scalding Tarn
+2 Misty Rainforest
+1 Flooded Strand
+2 Underground Sea
+1 Boseiju, Who Shelters All
 
-// 15 Sorcery
-4 Infernal Tutor
-4 Land Grant
-3 Cabal Therapy
-4 Gitaxian Probe
+// 18 Sorcery
+4 Show and Tell
+4 Ponder
+4 Preordain
+1 Gitaxian Probe
+1 Toxic Deluge
+4 Thoughtseize
 
 
 // 15 Sideboard
+// 1 Artifact
+SB: 1 Defense Grid
+
 // 4 Enchantment
-SB: 4 Carpet of Flowers
+SB: 4 Leyline of Sanctity
 
-// 8 Instant
-SB: 4 Nature's Claim
-SB: 4 Slaughter Pact
-
-// 3 Sorcery
-SB: 1 Empty the Warrens
-SB: 1 Cabal Therapy
-SB: 1 Duress
+// 10 Instant
+SB: 2 Flusterstorm
+SB: 1 Firemind's Foresight
+SB: 1 Release the Ants
+SB: 1 Eladamri's Call
+SB: 1 Surgical Extraction
+SB: 1 Echoing Truth
+SB: 1 Rushing River
+SB: 1 Slaughter Pact
+SB: 1 Noxious Revival
 
 
 

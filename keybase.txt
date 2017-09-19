@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/emidln
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://emidln.com
+  * I am emidln (https://keybase.io/emidln) on keybase.
+  * I have a public key ASDUfYPB_i_vlEsjvXC5N1YIWD0wE8v5LCRkRGMIlbkt8wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d47d83c1fe2fef944b23bd70b9375608583d3013cbf92c246444630895b92df30a",
+      "host": "keybase.io",
+      "kid": "0120d47d83c1fe2fef944b23bd70b9375608583d3013cbf92c246444630895b92df30a",
+      "uid": "6426ee8f624abca7a3af83fe83f0ec19",
+      "username": "emidln"
+    },
+    "merkle_root": {
+      "ctime": 1505785783,
+      "hash": "8e7629c7f82c484827e08201fc9e38a3c5abaade3453d49a657c92b7a7a1e03076d4fa65aed7c5664d6624dc239cdb47d7d40d8377b72256c554eb6909931804",
+      "hash_meta": "a67526e907c59df4d004375c38bbb3a66a51e183c072d9dbc8f8aeeec51dc5ce",
+      "seqno": 1404460
+    },
+    "service": {
+      "hostname": "emidln.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.31"
+  },
+  "ctime": 1505785792,
+  "expire_in": 504576000,
+  "prev": "fd6f07602526e313feaa59aefc4d8c54ac893844f17aab03c60c3ea07048d743",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg1H2Dwf4v75RLI71wuTdWCFg9MBPL+SwkZERjCJW5LfMKp3BheWxvYWTFAz97ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZDQ3ZDgzYzFmZTJmZWY5NDRiMjNiZDcwYjkzNzU2MDg1ODNkMzAxM2NiZjkyYzI0NjQ0NDYzMDg5NWI5MmRmMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZDQ3ZDgzYzFmZTJmZWY5NDRiMjNiZDcwYjkzNzU2MDg1ODNkMzAxM2NiZjkyYzI0NjQ0NDYzMDg5NWI5MmRmMzBhIiwidWlkIjoiNjQyNmVlOGY2MjRhYmNhN2EzYWY4M2ZlODNmMGVjMTkiLCJ1c2VybmFtZSI6ImVtaWRsbiJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwNTc4NTc4MywiaGFzaCI6IjhlNzYyOWM3ZjgyYzQ4NDgyN2UwODIwMWZjOWUzOGEzYzVhYmFhZGUzNDUzZDQ5YTY1N2M5MmI3YTdhMWUwMzA3NmQ0ZmE2NWFlZDdjNTY2NGQ2NjI0ZGMyMzljZGI0N2Q3ZDQwZDgzNzdiNzIyNTZjNTU0ZWI2OTA5OTMxODA0IiwiaGFzaF9tZXRhIjoiYTY3NTI2ZTkwN2M1OWRmNGQwMDQzNzVjMzhiYmIzYTY2YTUxZTE4M2MwNzJkOWRiYzhmOGFlZWVjNTFkYzVjZSIsInNlcW5vIjoxNDA0NDYwfSwic2VydmljZSI6eyJob3N0bmFtZSI6ImVtaWRsbi5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMxIn0sImN0aW1lIjoxNTA1Nzg1NzkyLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImZkNmYwNzYwMjUyNmUzMTNmZWFhNTlhZWZjNGQ4YzU0YWM4OTM4NDRmMTdhYWIwM2M2MGMzZWEwNzA0OGQ3NDMiLCJzZXFubyI6NiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECCTiyftK3nfO1L16QysV2X39QuPzTsZNEj3TQu4iip9snB161vZfX3JZik2TkyIWsNbzLV9oHc75YgANw+q4AHqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg09g2J3+g0RhrjIAZ46DaLOLmPjKSrOzP6Oq/YvcficejdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/emidln
+
+==================================================================

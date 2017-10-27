@@ -33,9 +33,6 @@
 
 
 // 15 Sideboard
-// 1 Artifact
-SB: 1 Defense Grid
-
 // 4 Enchantment
 SB: 4 Leyline of Sanctity
 
@@ -49,6 +46,7 @@ SB: 1 Echoing Truth
 SB: 1 Rushing River
 SB: 1 Slaughter Pact
 SB: 1 Noxious Revival
+SB: 1 Wipe Away
 
 
 

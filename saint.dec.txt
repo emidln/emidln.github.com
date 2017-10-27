@@ -1,8 +1,8 @@
 // 60 Maindeck
 // 19 Artifact
 4 Lotus Petal
-4 Chrome Mox
-3 Mox Opal
+3 Chrome Mox
+4 Mox Opal
 4 Lion's Eye Diamond
 4 Goblin Charbelcher
 

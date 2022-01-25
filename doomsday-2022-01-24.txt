@@ -1,0 +1,38 @@
+// UBr Turbo Doomsday v2022Q1v8
+4 Doomsday
+4 Personal Tutor
+2 Thassa's Oracle
+4 Brainstorm
+4 Ponder
+1 Consider
+1 Preordain
+2 Street Wraith
+2 Edge of Autumn
+4 Force of Will
+2 Misdirection
+2 Flusterstorm
+1 Pact of Negation
+4 Dark Ritual
+3 Cabal Ritual
+3 Lotus Petal
+1 Lion's Eye Diamond
+4 Polluted Delta
+1 Scalding Tarn
+2 Flooded Strand
+2 Misty Rainforest
+4 Underground Sea
+1 Island
+1 Swamp
+1 Cavern of Souls
+
+SB: 4 Force of Negation
+SB: 2 Red Elemental Blast
+SB: 1 Pyroblast
+SB: 1 Volcanic Island
+SB: 1 Massacre
+SB: 1 Chain of Vapor
+SB: 1 Crash
+SB: 1 Flusterstorm
+SB: 1 Ideas Unbound
+SB: 2 Leyline of the Void
+
